@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.etourney",
+  "version": "1.0.0",
+  "displayName": "Package ETourney",
+  "description": "",
+  "unity": "2019.4",
+  "unityRelease": "36f1",
+ "keywords": [
+    "network",
+    "tournaments"
+  ],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  }
+}

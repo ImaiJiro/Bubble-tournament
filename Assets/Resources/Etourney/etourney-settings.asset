@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c16acc1126b3343a956d0917e3169d, type: 3}
+  m_Name: etourney-settings
+  m_EditorClassIdentifier: 
+  GameKey: dJfLAMpcoN+TwyyxTnp7B2+71WxOXlKYGBg86r3CnGRqwjXhQEYC7XghZcx92kc595qbBZcoWBpaUu6xaj6M9etJe0fRmvKQeB8s2j8q/XqEvXtBLVaaG2mjzWkqlW2wjzmVv2lOdJngLFCoKKbvjpZ7rC+fjyODTD9q3UAI1K2DkISZtHxjva7CDs4talxOdMWCNchKDqJct/gJIxPo9cgEbVaYMV+MBaEoLJVDaDYmzwgEdGodAdsO1c8WmcKLmgJrbtwukk+9HmuNPmcTKP6+fb6FRe3KJO3z1coKsRPslbPZdc4Lr6sx8ZyqC6zxJxv4VPVrtRY6rUfSE4w+g9BkhucR+liAu9DQOOMjIU4UAVkpiM3KwbRCh+6a7aiLAFEHpbRPWLMhccbJ28KMlA==
+  LocalGameKey: 
+  Environment: 1
+  Orientation: 1
+  ServerLocation: 1

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1668482444107720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4770928678516332}
+  - component: {fileID: 114661721646817736}
+  m_Layer: 0
+  m_Name: FishTrackToRight 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4770928678516332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668482444107720}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114661721646817736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668482444107720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eef1f7a908875a4d97f017b2d0ed884, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  curve:
+    handlesPositions:
+    - {x: 0, y: 0, z: 0}
+    - {x: -2.785349, y: 1.9961417, z: 0}
+    - {x: -1.8865795, y: 5.145054, z: 0}
+    - {x: 1.972508, y: 5.1194954, z: 0}
+    - {x: 3.7761445, y: 2.567876, z: 0}
+    - {x: 6.1290927, y: -0.815727, z: 0}
+    - {x: 16.94922, y: -4.52589, z: 0}
+    controlPositions:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: -2.785349, y: 1.9961417, z: 0}
+    - {x: -1.8865795, y: 5.145054, z: 0}
+    - {x: 1.972508, y: 5.1194954, z: 0}
+    - {x: 3.7761445, y: 2.567876, z: 0}
+    - {x: 6.1290927, y: -0.815727, z: 0}
+    - {x: 16.94922, y: -4.52589, z: 0}
+    - {x: 16.94922, y: -4.52589, z: 0}
+    distances:
+    - 0
+    - 0
+    - 3.4267697
+    - 6.701435
+    - 10.560607
+    - 13.685326
+    - 17.80663
+    - 29.245182
+    - 29.245182
+  displayMode: 1
+  color: {r: 1, g: 1, b: 1, a: 1}
+  created: 1
+  ChangeCurveEvent:
+    m_PersistentCalls:
+      m_Calls: []

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5562762a69725f9458d3619028de2624, type: 3}
+  m_Name: MulticolorBoosterPack_3
+  m_EditorClassIdentifier: 
+  boosterFunc: {fileID: 114157279647413774, guid: 37a623e1d9fcab940a0b3b81e0fc75c4,
+    type: 3}
+  count: 3
